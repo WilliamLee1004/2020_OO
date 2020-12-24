@@ -14,7 +14,7 @@
 ---
 ## 一、專案管理 -- 時程規劃&FDD
  ### (1)甘特圖
-  ![NKUST](gant.png "甘特圖")
+  ![NKUST](甘特圖.png "甘特圖")
  ---
  ### (2)PERT/CPM
   ![NKUST](pert.png "PERT")
