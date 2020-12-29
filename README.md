@@ -158,7 +158,7 @@
  + 反應時間：Response Time < 3 sec
  + 可靠度：Down time < 1 /week
  + 安全性：不同的用戶具有不同的權限  (例：職員帳號可以進行顧客的開除戶、修改帳戶明細，併將修改的帳戶名稱、日期、摘要和更改內容記錄下來)
- + 系統設計所使用的環境/工具：PHP、HTML5、CSS3、SqlServer、JavaScript
+ + 系統設計所使用的環境/工具：HTML5、CSS3、MySQL、JavaScript
  + 兼容性：系統應支持 Google Chrome、 Safari 、 Microsoft Edge 瀏覽器
 
 ---
