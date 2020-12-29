@@ -5,6 +5,8 @@
 ### 組長:洪仁傑
 
 ### 小組成員: 黃堃博(DB)、李浩茗(後端)、李永宸(前端)、洪仁傑(PM)
+
+### PPT URL: [https://drive.google.com/file/d/1Fnrdzi1sqNpdZUv34H_R70YBKb4g_q7u/view?usp=sharing](https://drive.google.com/file/d/1Fnrdzi1sqNpdZUv34H_R70YBKb4g_q7u/view?usp=sharing)
 ---
 ## 題目: 銀行管理系統
 
